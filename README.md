@@ -64,3 +64,13 @@ Note for Retina iPads:
 ## Jailbroken users without access to a Mac+XCode
 
 You may download the latest build of the last stable release (1.0) here: http://d.pr/f/Hnsw
+
+
+Download for non jailbroken devices without mac and xcode
+
+
+<!-- MacBuildServer Install Button -->
+<div class="macbuildserver-block">
+    <a class="macbuildserver-button" href="http://macbuildserver.com/project/github/build/?xcode_project=RecordMyScreen.xcodeproj&amp;target=RecordMyScreen&amp;repo_url=git%3A%2F%2Fgithub.com%2Fenzocagggiano%2FRecordMyScreen.git&amp;build_conf=Release" target="_blank"><img src="http://com.macbuildserver.github.s3-website-us-east-1.amazonaws.com/button_up.png"/></a><br/><sup><a href="http://macbuildserver.com/github/opensource/" target="_blank">by MacBuildServer</a></sup>
+</div>
+<!-- MacBuildServer Install Button -->
